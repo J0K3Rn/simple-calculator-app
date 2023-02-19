@@ -7,7 +7,7 @@ Calculator allows for calculation of 2 numbers and allows for multiple operators
 How to run application:
 - Download repository
 - Open downloaded repository with a command line interface
-- Run 'nodemon calculator.js' in terminal in root directory of repository
+- Run 'npm install' and then 'nodemon app.js' in terminal in root directory of repository
 
 App running:
 
